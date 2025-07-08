@@ -21,10 +21,12 @@ A LangChain + Groq-powered AI system that resolves IT support queries across mul
 
 ## 🧠 How It Works
 
+<details> <summary>📊 Click to Expand Mermaid Diagram</summary>
 %%{init: {'theme': 'dark'}}%%
-flowchart ID
+flowchart TD
     A[User Multilingual IT Query] --> B[LangChain Prompt Template]
     B --> C[LLaMA-3.3-via-Groq-70B]
     C --> D[Structured JSON Output via Pydantic]
     D --> E[Translated Message + Category + Resolution]
     E --> F[Final DataFrame Display]
+</details>
