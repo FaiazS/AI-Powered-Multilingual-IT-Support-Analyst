@@ -49,6 +49,16 @@ Layer	Tools / Frameworks
 ✅ Batch processing of multiple IT tickets.
 
 ---
+### 📈 Use Cases
+
+  - Enterprise IT Helpdesk Automation.
+
+  - B2B SaaS Support Chatbots.
+
+  - Global Multilingual Customer Support.
+
+  - Internal Ticket Resolution Engines.
+---
 
 ## 🧠 How It Works
 
