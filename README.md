@@ -34,6 +34,22 @@ Layer	Tools / Frameworks
 
 ---
 
+### 🚀 Features
+
+✅ Handles multilingual IT issues.
+
+✅ Auto-translates issue and resolution.
+
+✅ Categorizes the issue (e.g., “Printer”, “Login Issue”).
+
+✅ Dual-language support (native + English).
+
+✅ Clean, structured JSON outputs (ideal for APIs).
+
+✅ Batch processing of multiple IT tickets.
+
+---
+
 ## 🧠 How It Works
 
 ```mermaid
