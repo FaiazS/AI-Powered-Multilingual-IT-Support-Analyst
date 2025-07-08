@@ -18,6 +18,21 @@ A LangChain + Groq-powered AI system that resolves IT support queries across mul
 | プリンターのトナーを交換しました... | Japanese | Printer Issue | トナー交換後、プリンターのヘッドを... |
 
 ---
+### 🛠 Tech Stack
+
+Layer	Tools / Frameworks
+
+💬 LLM	LLaMA 3.3 70B via Groq
+
+🧠 Framework	LangChain, PromptTemplate, Output Parsers
+
+📦 Structure	Pydantic, JSON, Pandas
+
+🔐 Security	Google Colab userdata for API keys
+
+📊 Output	Tabular Pandas DataFrame
+
+---
 
 ## 🧠 How It Works
 
