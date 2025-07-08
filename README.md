@@ -22,7 +22,6 @@ A LangChain + Groq-powered AI system that resolves IT support queries across mul
 ## 🧠 How It Works
 
 ```mermaid
-%%{init: {'theme':'dark'}}%%
 flowchart TD
     A[User Multilingual IT Query] --> B[LangChain Prompt Template]
     B --> C[LLaMA 3.3 via Groq (70B)]
